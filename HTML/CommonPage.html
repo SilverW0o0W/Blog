@@ -1,0 +1,112 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <meta charset="utf-8" />
+    <script src="JavaScript/jquery-3.1.1.min.js"></script>
+    <script src="../JavaScript/pace/pace.min.js"></script>
+    <link href="../CSS/pace/themes/pace-theme-minimal.css" rel="stylesheet" />
+    <script src="../JavaScript/google-code-prettify/prettify.js"></script>
+    <!--<link href="../CSS/google-code-prettify/skins/doxy.css" rel="stylesheet" />-->
+    <link href="../CSS/google-code-prettify/skins/sunburst.css" rel="stylesheet" />
+    <link href="../CSS/google-code-prettify/skins/sons-of-obsidian.css" rel="stylesheet" />
+    <script src="../JavaScript/ckeditor/ckeditor.js"></script>
+    <link href="../CSS/common.css" rel="stylesheet" />
+    <script>
+        window.onload = function () {
+            prettyPrint();
+        }
+    </script>
+    <script type="text/javascript">
+        CKEDITOR.replace('inputbox');
+    </script>
+</head>
+<body>
+    <header>
+        <nav id="nav">
+            <ul>
+                <li><a href="">网站首页</a></li>
+                <li><a href="">文章记录</a></li>
+                <li><a href="">音乐分享</a></li>
+                <li><a href="">收藏转载</a></li>
+                <li><a href="">关于作者</a></li>
+                <li><a href="">留言版块</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="blank"></div>
+    <div class="main">
+        <div class="mainbar">
+
+            <pre class="prettyprint linenums">
+package POJO;
+public class User {
+	private String id;
+	private String name;
+	private String password;
+	public String getId() {
+		return id;
+	}
+	public void setId(String id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public String getPassword() {
+		return password;
+	}
+	public void setPassword(String password) {
+		this.password = password;
+	}
+	public User(String id, String name, String password) {
+		this.id = id;
+		this.name = name;
+		this.password = password;
+	}
+}
+</pre>
+            <textarea id="inputbox" class="ckeditor" cols="20" rows="2"></textarea>
+        </div>
+        <div class="sidebar">
+            <div class="sidebar-hot">
+                Hot Spot
+            </div>
+            <div class="sidebar-commend">
+                Commend
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="footer-bar">
+            <div>
+                <div class="footer-bar-link">
+                    <p class="footer-bar-title">recommend web site</p>
+                    <p>
+                        <a></a>
+                    </p>
+                </div>
+                <div class="footer-bar-link">
+                    <p class="footer-bar-title">interesting site</p>
+                    <p>
+                        <a></a>
+                    </p>
+                </div>
+                <div class="footer-bar-link">
+                    <p class="footer-bar-title"> connect me</p>
+                    <p>
+                        <a></a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        <div class="footer-info">
+
+        </div>
+    </footer>
+</body>
+</html>
