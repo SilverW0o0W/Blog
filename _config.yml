@@ -4,17 +4,17 @@ email: silver.codingcat@gmail.com
 description: "A dark blog theme for Jekyll."
 baseurl: ""
 url: "http://silvercodingcat.com/"
-title_description: "."
+title_description: "Welcome welcome welcome silvercodingcat.com"
 title_image: "/resource/avatar.png"
 google_analytics: "UA-20365477-4"
-disqus_account: cartenoire
+disqus_account: none
 github_repository: https://github.com/SilverW0o0W/Blog
 addthis_id: ra-513c6fa83da6ec67
 post_limit: 5
 
 # Social usernames/URLs
-twitter_username: _jacobtomlinson
-github_username:  jacobtomlinson
+twitter_username: SilverW0o0W
+github_username:  SilverW0o0W
 instagram_username: 
 reddit_username: 
 linkedin_link: http://carte-noire.jacobtomlinson.co.uk/
