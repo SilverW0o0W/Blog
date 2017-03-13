@@ -110,7 +110,79 @@ LC_ALL : `en_US.UTF-8`
 这个东西吧...港真，菜鸡表示不懂...是我寄几用jekyll的时候发现的，没有这个东西jekyll运行不起来（捂脸）。有兴趣的话自己去了解一下吧。
 ![10](/resource/2017-03-13-Ruby-Jekyll/10.png)
 
+* 验证安装结果
+
+`bundler -v`
+`jekyll -v`
+
+![11](/resource/2017-03-13-Ruby-Jekyll/11.png)
+
+## 生成Blog
+
+这个步骤其实没有必要，这里做一下只是为了验证jekyll的结果。通常大家都会选择一些更好看的theme而不是直接使用默认生成的。
+可以熟悉一下用来jekyll的操作。
+
+* 创建一个Site
+
+在资源管理器里面找一个文件夹，作为创建Site的父文件夹
+
+鼠标右键Git Bash Here。当然，从别的地方cd过来也是可以的╭(╯^╰)╮
+
+`jekyll new test`，test为创建的子文件夹的名字
+
+一大堆绿油油的东西滚过去...
+
+![12](/resource/2017-03-13-Ruby-Jekyll/12.png)
+
+* 发布Site
+
+切换到Site的目录下 `cd test`
+
+发布网站 `jekyll server` 或 `jekyll server` 我再或 `jekyll s`
+![13](/resource/2017-03-13-Ruby-Jekyll/13.png)
+
+如图中所示，Site的URL为http://127.0.0.1:4000/
+
+另外使用ctrl+c来停止发布网站
+![14](/resource/2017-03-13-Ruby-Jekyll/14.png)
+
+## 发布到Github Pages上
+
+这个步骤就不再细述了，就是把代码提交到Github上的过程。不喜欢用console就下载一个Github桌面版，GUI操作很简单。
+
+[Github Desktop][5]
+
+* blog repository clone到本地
+
+根据上一篇博客创建过的repository，里面应该是只有README.md。如果配置了域名的话，还会有一个CNAME文件。
+
+我们只需要将jekyll生成的或者下载的jekyll theme模版copy到repository目录即可。README.md可以被覆盖，但是CNAME文件需要保留。
+
+* jekyll server试运行
+
+使用 `jekyll s` 运行一下，检查Blog网站是否能够成功运行，这步也可以避免遗落什么文件。
+
+* 提交给Github
+
+将repository目录添加的所有文件提交到Github上，访问Github Pages验收结果。
+
+到这里，jekyll的配置就基本完成了。多谢支持~
+
+~\(≧▽≦)/~
+
+**一些值得参考的网站**
+
+[jekyll中文版][6] （内容不全）
+
+[jekyll英文版][7]
+
+[jekyll themes][8]
+
 [1]: https://git-scm.com/download/win
 [2]: http://rubyinstaller.org/downloads/
 [3]: http://www.ruby-lang.org/zh_cn/downloads/
 [4]: http://gems.ruby-china.org/
+[5]: https://desktop.github.com/
+[6]: http://jekyll.com.cn/
+[7]: http://jekyllrb.com/
+[8]: http://jekyllthemes.org/
