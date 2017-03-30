@@ -138,7 +138,7 @@ LC_ALL : `en_US.UTF-8`
 
 切换到Site的目录下 `cd test`
 
-发布网站 `jekyll server` 或 `jekyll server` 我再或 `jekyll s`
+发布网站 `jekyll server` 或 `jekyll serve` 我再或 `jekyll s`
 ![13](/resource/2017-03-13-Ruby-Jekyll/13.png)
 
 如图中所示，Site的URL为http://127.0.0.1:4000/
