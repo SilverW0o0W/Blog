@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Go the hell !!! Jekyll无法正确解析.md文件问题
+title:      Jekyll无法正确解析.md文件问题
 categories: Blog
 ---
 
