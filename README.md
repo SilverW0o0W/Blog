@@ -1,4 +1,4 @@
-# Carte Noire
+# Silver's Blog
 
 A simple Jekyll theme for blogging. Not named after the coffee.
 
