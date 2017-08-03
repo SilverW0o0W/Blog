@@ -16,3 +16,13 @@ categories: Python
 
 下完了Fiddler，准备愉悦地开工吧(然而并没有，明天再说吧)
 
+---
+
+更新一下进展吧= =
+
+[Talk is cheap][1]
+
+顺便，最近弄了个树莓派，以后就用这个爬网易了
+
+[1]: https://github.com/SilverW0o0W/Python/tree/master/Code/netease-music
+ 
