@@ -24,5 +24,10 @@ categories: Python
 
 顺便，最近弄了个树莓派，以后就用这个爬网易了
 
+---
+
+爬评论的弄得大概差不多了，找个时间记录一下过程
+
 [1]: https://github.com/SilverW0o0W/Python/tree/master/Code/netease-music
+
  
