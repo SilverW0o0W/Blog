@@ -28,6 +28,8 @@ categories: Python
 
 爬评论的弄得大概差不多了，找个时间记录一下过程
 
+写了好久爬代理ip，感觉可以单开一个了= =
+
 [1]: https://github.com/SilverW0o0W/Python/tree/master/Code/netease-music
 
  
