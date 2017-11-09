@@ -32,4 +32,12 @@ categories: Python
 
 [1]: https://github.com/SilverW0o0W/Python/tree/master/Code/netease-music
 
+
+---
+
+2017/11/09
+东西太多了，所以把Code搬到一个新Repository了= =
+
+[2]: https://github.com/SilverW0o0W/Netease-music
+
  
