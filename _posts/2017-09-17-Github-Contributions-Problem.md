@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Github贡献图吐槽
-categories: Python
+categories: Blog
 ---
 
 这篇blog没有营养，想要干货直接略过吧 = =
