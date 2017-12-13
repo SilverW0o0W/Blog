@@ -8,8 +8,14 @@ categories: Python
 
 [廖雪峰Python][1]
 [菜鸟教程][2]
+[Django看起来不错的教程][3]
+[Django官网教程][4]
+[Django官网教程中文版][5]
 
 
 
 [1]: https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
 [2]: http://www.runoob.com/python/python-tutorial.html
+[3]: https://www.zmrenwu.com/post/2/
+[4]: https://docs.djangoproject.com/en/1.10/intro/
+[5]: http://django-intro-zh.readthedocs.io/zh_CN/latest/
