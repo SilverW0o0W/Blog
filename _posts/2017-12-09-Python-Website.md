@@ -11,6 +11,7 @@ categories: Python
 [Django看起来不错的教程][3]
 [Django官网教程][4]
 [Django官网教程中文版][5]
+[The Django Book][6]
 
 
 
@@ -18,4 +19,5 @@ categories: Python
 [2]: http://www.runoob.com/python/python-tutorial.html
 [3]: https://www.zmrenwu.com/post/2/
 [4]: https://docs.djangoproject.com/en/1.10/intro/
-[5]: http://django-intro-zh.readthedocs.io/zh_CN/latest/
+[5]: https://7sdream.github.io/django-intro-zh/
+[6]: http://djangobook.py3k.cn/
