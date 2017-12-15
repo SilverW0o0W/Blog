@@ -6,12 +6,12 @@ categories: Python
 
 这篇主要是用来记录开发过程中常用或者新发现的网站，不定时更新。
 
-[廖雪峰Python][1]
-[菜鸟教程][2]
-[Django看起来不错的教程][3]
-[Django官网教程][4]
-[Django官网教程中文版][5]
-[The Django Book][6]
+[廖雪峰Python][1]  
+[菜鸟教程][2]  
+[Django看起来不错的教程][3]  
+[Django官网教程][4]  
+[Django官网教程中文版][5]  
+[The Django Book][6]  
 
 
 
