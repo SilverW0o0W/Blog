@@ -12,6 +12,7 @@ categories: Python
 [Django官网教程][4]  
 [Django官网教程中文版][5]  
 [The Django Book][6]  
+[requests文档][7]
 
 
 
@@ -21,3 +22,4 @@ categories: Python
 [4]: https://docs.djangoproject.com/en/1.10/intro/
 [5]: https://7sdream.github.io/django-intro-zh/
 [6]: http://djangobook.py3k.cn/
+[7]: http://www.python-requests.org/
