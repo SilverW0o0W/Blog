@@ -1,5 +1,6 @@
 ---
 layout:     post
+title:      VIM 键盘图
 categories: Linux
 ---
 
