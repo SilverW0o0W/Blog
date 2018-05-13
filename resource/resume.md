@@ -33,7 +33,7 @@ DocAve 是公司的主要产品之一，提供数据迁移到SharePoint的解决
 
 #### 基于网易云音乐API的爬虫工具与Web应用
 使用技术 : Python/SQLite/MySQL  
-主要框架/类库 : Django/SQLAlchemy/Requests/BeaufulSoup
+主要框架/类库 : Django/SQLAlchemy/Requests/BeautifulSoup
 
 ##### 爬虫工具与Web应用
 * 爬取歌曲评论并写入数据库，支持多线程
@@ -48,7 +48,7 @@ DocAve 是公司的主要产品之一，提供数据迁移到SharePoint的解决
 
 #### Pixiv插画交流网站爬虫
 使用技术 : Python/MongoDB  
-主要类库 : pymongo/smtplib/schedule/Requests/BeaufulSoup  
+主要类库 : pymongo/smtplib/schedule/Requests/BeautifulSoup  
 
 * 自动爬取每日/周/月排行前50名图片并打包为zip
 * 爬取完成后发送邮件通知
