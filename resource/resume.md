@@ -55,8 +55,9 @@ DocAve 是公司的主要产品之一，提供数据迁移到SharePoint的解决
 ***
 
 ### 技能清单
-* 熟悉Python，熟悉面向对象语言Java，C#
-* 熟悉关系型数据库MySQL，了解MongoDB
+* 熟悉Python
+* 熟悉面向对象语言C#，Java
+* 了解MySQL，MongoDB
 * 了解Linux，能够编写基础Shell脚本
 * 了解前端开发
 * 了解Docker
