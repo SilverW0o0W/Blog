@@ -31,12 +31,13 @@ DocAve 是公司的主要产品之一，提供数据迁移到SharePoint的解决
 
 ### 个人项目
 
-#### 基于网易云音乐API的爬虫工具与Web应用
-使用技术 : Python/SQLite/MySQL  
-主要框架/类库 : Django/SQLAlchemy/Requests/BeautifulSoup
+#### 基于网易云音乐API的分布式爬虫与Web应用
+使用技术 : Python/MySQL/Redis/SQLite  
+框架 : Django/Gevent
+类库 : SQLAlchemy/Requests/BeautifulSoup
 
-##### 爬虫工具与Web应用
-* 爬取歌曲评论并写入数据库，支持多线程
+##### 分布式爬虫与Web应用
+* 爬取歌曲评论并写入数据库，支持分布式爬取
 * 爬取歌词并生成lrc文件
 * 爬取歌单/专辑封面
 * 输入歌曲/歌单URL，生成歌词文件/歌词文件压缩包
@@ -57,7 +58,7 @@ DocAve 是公司的主要产品之一，提供数据迁移到SharePoint的解决
 ### 技能清单
 * 熟悉Python
 * 熟悉面向对象语言C#，Java
-* 了解MySQL，MongoDB
+* 了解MySQL，MongoDB，Redis
 * 了解Linux，能够编写基础Shell脚本
 * 了解前端开发
 * 了解Docker
