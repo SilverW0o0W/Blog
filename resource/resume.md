@@ -18,40 +18,43 @@
 职位 : C#开发工程师  
 DocAve 是公司的主要产品之一，提供数据迁移到SharePoint的解决方案
 
-##### 迭代开发
+##### 产品迭代与定制功能化开发
 * 负责对新版本Exchange(2016,Online)的数据迁移提供支持
 * 开发Exchange模块新功能，将支持迁移的最低层级由List降低至Folder
-* 参与多个模块的High Speed Migraion功能开发，迁移速度提高5倍以上
-
-##### 日常维护与开发定制化功能
-* 开发log分析工具，从大量log中提取重要信息，对定位问题帮助很大
-* 多次作为开发参加Support与国外客户的线上会议，为客户分析问题
+* 参与Migration Team中多个模块的High Speed Migraion功能开发  
+  新的Migration方式使迁移速度提高了5倍以上
 * 根据客户需求重构代码，将数据动态迁移到多个SharePoint Site中
+
+##### 日常维护与处理客户问题
+* 独立开发出产品log的分析工具，提取出高价值信息以便于快速定位问题
+* 多次参加Support与国外客户的WebEx Meeting，为客户分析问题
+
 ***
 
 ### 个人项目
 
-#### 基于网易云音乐API的分布式爬虫与Web应用
+#### 基于网易云音乐API的分布式爬虫与应用
 使用技术 : Python/MySQL/Redis/SQLite  
 框架 : Django/Gevent
-类库 : SQLAlchemy/Requests/BeautifulSoup
+主要类库 : SQLAlchemy/Requests/BeautifulSoup
 
 ##### 分布式爬虫与Web应用
 * 爬取歌曲评论并写入数据库，支持分布式爬取
-* 爬取歌词并生成lrc文件
 * 爬取歌单/专辑封面
-* 输入歌曲/歌单URL，生成歌词文件/歌词文件压缩包
+* 网易云不提供歌词下载，因此实现了一个输入歌曲/歌单的URL，  
+爬取歌词内容并生成为lrc文件的简单Web程序
+
 
 ##### 多进程代理池
-* 自动爬取免费代理
-* 池中代理数量不足时自动获取
+* 代理数量不足时自动爬取免费代理
 * 定时检查池中代理可用性
+* 支持导出到文件离线使用
 
 #### Pixiv插画交流网站爬虫
 使用技术 : Python/MongoDB  
-主要类库 : pymongo/smtplib/schedule/Requests/BeautifulSoup  
+主要类库 : Scrapy/pymongo/smtplib  
 
-* 自动爬取每日/周/月排行前50名图片并打包为zip
+* 爬取每日/周/月排行前50名并打包为zip
 * 爬取完成后发送邮件通知
 ***
 
