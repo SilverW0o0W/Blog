@@ -5,6 +5,7 @@ categories: Python
 ---
 
 ### 继承模式-无锁
+
 {% highlight ruby %}
 class Singleton(object):
     _instance = None
@@ -15,7 +16,9 @@ class Singleton(object):
             )
             return cls._instance
 {% endhighlight %}
+
 ### 继承模式-双检锁
+
 {% highlight ruby %}
 import threading
 
@@ -52,6 +55,7 @@ class MySingleton(object):
 {% endhighlight %}
 
 ### import模式-无需加锁
+
 {% highlight ruby %}
 # singleton.py
 class Singleton(object):
