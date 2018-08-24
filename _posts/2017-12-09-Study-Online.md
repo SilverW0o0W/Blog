@@ -1,11 +1,12 @@
 ---
 layout:     post
-title:      Python 学习资料
-categories: Python
+title:      在线学习资料
+categories: Resource
 ---
 
 这篇主要是用来记录开发过程中常用或者新发现的网站，不定时更新。
 
+#### Python
 * [廖雪峰Python][1]
 * [菜鸟教程][2]  
 * [Django看起来不错的教程][3]  
@@ -15,6 +16,8 @@ categories: Python
 * [The Django Book 2.0 中文版][7]  
 * [requests文档][8]
 
+#### Vue.js
+* [Vue.js中文教程][9]
 
 
 [1]: https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
@@ -25,3 +28,5 @@ categories: Python
 [6]: https://djangobook.com/the-django-book/
 [7]: http://djangobook.py3k.cn/2.0/
 [8]: http://www.python-requests.org/
+
+[9]: https://cn.vuejs.org/
