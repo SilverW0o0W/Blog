@@ -19,3 +19,26 @@ categories: Blog
 
 #### 安装ShadowSocks
 * `pip install shadowsocks`
+
+#### 添加配置文件  
+
+{% highlight ruby %}
+# /etc/shadowsocks.json
+{
+"server":"0.0.0.0",
+"server_port":"8888",
+"local_address":"127.0.0.1",
+"local_port":1080,
+"password":"password",
+"timeout":300,
+"method":"aes-256-cfb",
+"fast_open":false,
+"workers":1,
+"verbose":-3,
+"log-file":"/dev/null"
+}
+{% endhighlight %}
+
+
+#### 后台启动ShadowSocks
+* `ssserver -c /etc/shadowsocks.json -d start`
