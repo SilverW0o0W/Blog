@@ -27,3 +27,6 @@ categories: Blog
 
 * `git push`  
 将本地分支更新推送到远程主机
+
+* `git branch`  
+查看当前分支
