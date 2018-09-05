@@ -4,7 +4,7 @@ title:      学习资料汇总
 categories: Resource
 ---
 
-这篇文章用来收集技术资料
+#### Python
 
 * [20 Python Libraries You Aren't Using (But Should)][1]  
   密码: `ws7b`
