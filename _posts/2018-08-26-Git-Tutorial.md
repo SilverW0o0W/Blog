@@ -30,3 +30,6 @@ categories: Blog
 
 * `git branch`  
 查看当前分支
+
+* `git checkout <name>`  
+还原文件/切换分支
