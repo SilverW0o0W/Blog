@@ -4,8 +4,6 @@ title:      在线学习资料
 categories: Resource
 ---
 
-这篇主要是用来记录开发过程中常用或者新发现的网站，不定时更新。
-
 #### Python
 * [廖雪峰Python][1]
 * [菜鸟教程][2]  
