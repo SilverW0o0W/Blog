@@ -48,4 +48,4 @@ categories: Blog
 
 ##### [快速安装][1]
 
-[1]: /resource/2018-08-27-ShadowSocks-Tutorial/quick_ss.sh
+[1]: /resource/2018-08-27-ShadowSocks-Tutorial/quick_install.sh
