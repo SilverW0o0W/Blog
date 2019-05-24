@@ -10,6 +10,7 @@ categories: Python
 * 国际版: `https://cn.bing.com/HPImageArchive.aspx?format=js&n=20&nc=1528453352419&pid=hp&FORM=BEHPTB`
 
 #### 参数
+
 * `format`: js return JSON, default return XML
 * `n`: return image count (max = 8 for now)
 * `nc`: timestamp

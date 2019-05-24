@@ -11,7 +11,8 @@ categories: LeetCode
 LeetCode支持Discuss的功能，在写完自己的答案后，大佬们的答案收获是非常大的。还有一部分题有官方给出的Solution。  
 就学习效率上说比LintCode要自己找的不知道靠不靠谱答案来说要高不少。  
 感觉一天一道题的速度还是很慢的，最近还在学一些其他的东西。虽然速度慢了点，要是能坚持下来的话还是有不小的收获吧...  
-另外，立个flag，再不好好学习就要卸载守望屁股和群星了= =  
+另外，立个flag，再不好好学习就要卸载守望屁股和群星了= =
+
 * #### [LeetCode Repository][1]
 
 [1]: https://github.com/SilverW0o0W/LeetCode

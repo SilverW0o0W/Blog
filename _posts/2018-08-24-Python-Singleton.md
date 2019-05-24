@@ -36,6 +36,7 @@ class Singleton(object):
 {% endhighlight %}
 
 ### 元类(metaclass)模式-无锁
+
 {% highlight ruby %}
 class Singleton(type):
     def __init__(cls,name,bases,dic):
@@ -73,6 +74,7 @@ print singleton.single.do_sth()
 {% endhighlight %}
 
 ##### Reference：
+
 * [继承模式][1]
 * [元类模式][2]
 

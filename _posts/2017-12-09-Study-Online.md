@@ -5,6 +5,7 @@ categories: Resource
 ---
 
 #### Python
+
 * [廖雪峰Python][1]
 * [菜鸟教程][2]  
 * [Django看起来不错的教程][3]  
@@ -15,8 +16,12 @@ categories: Resource
 * [requests文档][8]
 
 #### Vue.js
+
 * [Vue.js中文教程][9]
 
+#### Elasticsearch
+
+* [Elasticsearch 权威指南][10]
 
 [1]: https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
 [2]: http://www.runoob.com/python/python-tutorial.html
@@ -28,3 +33,5 @@ categories: Resource
 [8]: http://www.python-requests.org/
 
 [9]: https://cn.vuejs.org/
+
+[10]: https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html

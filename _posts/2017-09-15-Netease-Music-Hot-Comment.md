@@ -4,7 +4,7 @@ title:      获取网易云音乐精彩评论API
 categories: Python
 ---
 
-# 这篇文章需要爬取对网易云音乐评论API有一定了解。
+## 这篇文章需要爬取对网易云音乐评论API有一定了解。
 
 通常，我们处理过请求需要的参数之后，需要将Request发送到 `http://music.163.com/weapi/v1/resource/comments/R_SO_4_(id)/?csrf_token=` 来获取评论。  
 在返回的JSON里面会含有普通评论和精彩评论。  

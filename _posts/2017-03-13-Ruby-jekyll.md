@@ -4,7 +4,6 @@ title: Windows下配置Ruby与jekyll
 categories: Blog
 ---
 
-
 对于一个对Ruby一无所知的菜鸡来说，这篇blog包含了很多的血泪故事呢...  
 今天就用我的鲜血来帮助后人吧！（正经脸）
 
