@@ -66,7 +66,7 @@ LC_ALL : `en_US.UTF-8`
 `gem sources -r https://rubygems.org/` ，  
 注意：后边的URL要和显示中的完全一致，否则就会报错。  
 ![7](/resource/2017-03-13-Ruby-Jekyll/7.png)  
-`gem sources -a http://gems.ruby-china.org/` ，    
+`gem sources -a http://gems.ruby-china.com/` ，    
 另一个注意：这个地方最好使用http而不是https，由于证书的问题，https还是无法正常访问站点，所以避免折腾，还是用http比较靠谱。  
 ![8](/resource/2017-03-13-Ruby-Jekyll/8.png)  
 还有一个注意：这里提供的URL只是可用的站点其中之一，不过鉴于其他站点不是不可用就是已经弃用，菜鸡经过了很多尝试...不想折腾还是用这个吧。  
@@ -144,7 +144,7 @@ LC_ALL : `en_US.UTF-8`
 [1]: https://git-scm.com/download/win
 [2]: http://rubyinstaller.org/downloads/
 [3]: http://www.ruby-lang.org/zh_cn/downloads/
-[4]: http://gems.ruby-china.org/
+[4]: https://gems.ruby-china.com/
 [5]: https://desktop.github.com/
 [6]: http://jekyll.com.cn/
 [7]: http://jekyllrb.com/
