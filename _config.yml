@@ -30,7 +30,7 @@ twitter_username:
 github_username:  SilverW0o0W
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
