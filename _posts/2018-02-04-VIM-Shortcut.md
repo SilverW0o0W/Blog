@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      VIM 键盘图
+author: Silver
 categories: Linux
 ---
 

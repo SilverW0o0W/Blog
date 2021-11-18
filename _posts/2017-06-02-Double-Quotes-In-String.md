@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      C# @字符串中双引号写法
+author: Silver
 categories: Trick
 ---
 

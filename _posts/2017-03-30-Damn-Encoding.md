@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Jekyll无法正确解析.md文件问题
+author: Silver
 categories: Blog
 ---
 

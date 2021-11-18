@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      排序-位图排序(BitMapSort)
+author: Silver
 categories: Algorithm Sort
 ---
 

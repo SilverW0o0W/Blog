@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      pip安装cryptography失败导致pymysql无法安装问题
+author: Silver
 categories: Python
 ---
 

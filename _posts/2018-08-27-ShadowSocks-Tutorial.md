@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      ShadowSocks环境搭建
+author: Silver
 categories: Blog
 ---
 

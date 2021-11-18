@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Proxy spider check
+author: Silver
 categories: Python
 ---
 

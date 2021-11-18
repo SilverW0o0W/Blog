@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      重构Proxy
+author: Silver
 categories: Python
 ---
 

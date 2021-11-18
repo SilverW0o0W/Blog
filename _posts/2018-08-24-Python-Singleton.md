@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Python单例模式
+author: Silver
 categories: Python
 ---
 

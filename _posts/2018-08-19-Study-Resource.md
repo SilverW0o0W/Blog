@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      学习资料汇总
+author: Silver
 categories: Resource
 ---
 

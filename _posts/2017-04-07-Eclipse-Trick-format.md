@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Eclipse格式化代码忽略注释格式
+author: Silver
 categories: Trick
 ---
 

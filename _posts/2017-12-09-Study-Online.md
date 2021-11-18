@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      在线学习资料
+author: Silver
 categories: Resource
 ---
 

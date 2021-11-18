@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Github贡献图吐槽
+author: Silver
 categories: Blog
 ---
 

@@ -50,5 +50,3 @@ layout: default
     {%- endif %}
 
   {%- endif -%}
-
-</div>

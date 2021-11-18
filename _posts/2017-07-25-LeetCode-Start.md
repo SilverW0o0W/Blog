@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      开始刷LeetCode
+author: Silver
 categories: LeetCode
 ---
 

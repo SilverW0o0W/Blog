@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      编程技巧
+author: Silver
 categories: Trick
 ---
 

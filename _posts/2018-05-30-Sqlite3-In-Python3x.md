@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Python 3.x 版本中sqlite3错误
+author: Silver
 categories: Python
 ---
 

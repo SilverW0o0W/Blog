@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      Bing每日美图API
+author: Silver
 categories: Python
 ---
 
