@@ -1,8 +1,9 @@
-theme: jekyll-theme-minimal
+theme: minima
 markdown: GFM
 plugins:
   - jekyll-feed
 
 
+author: Silver
 title: "Silver Note"
 email: silver.codingcat@gmail.com
