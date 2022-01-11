@@ -5,32 +5,44 @@ author: Silver
 categories: Blog
 ---
 
-用了一百年GitHub Desktop的弱鸡表示: git命令？啥玩意啊，咋回事啊，那咋整啊  
-以下是工作中最最最常用的命令了，因为刚开始学，我只会这几个 = =  
-可以说是新手必备了吧~  
-以后会的多了可能不定时更新  
+用了一百年GitHub Desktop的弱鸡表示: git命令？啥玩意啊，咋回事啊，那咋整啊
 
-* `git clone`  
-将远程仓库下载到本地
+===================
 
-* `git status`  
-查看上次commit后项目更改情况
+经过了社会毒打之后，发现主要用到的命令还是这么几个
 
-* `git add <file>`  
-如果准备commit某文件，使用git add 添加到缓存区  
-(use "git add <file>..." to include in what will be committed)
+### 初始
+#### 将远程仓库下载到本地
+`git clone <url>`
 
-* `git commit`  
-将缓存区中内容提交到仓库中
+### 开发相关
+#### 查看上次提交后项目更改情况
+`git status`
 
-* `git pull`  
-将远程主机更新与本地分支合并
+#### 将准备提交的文件添加到缓存区
+`git add <file>`
 
-* `git push`  
-将本地分支更新推送到远程主机
+#### 将缓存区中内容提交到本地仓库中
+`git commit -m "commit message"`
 
-* `git branch`  
-查看当前分支
+### 提交相关
+#### 添加远程仓库
+`git remote add <repo alias> <url>`
 
-* `git checkout <name>`  
-还原文件/切换分支
+#### 从远程仓库获取更新
+`git fetch <repo alias>`
+
+#### 合并代码
+`git merge <repo>/<branch>`
+
+#### 将远程仓库分支更新内容与本地分支合并
+`git pull`
+
+#### 将本地分支更新推送到远程仓库
+`git push`
+
+#### 查看当前分支
+`git branch`
+
+#### 还原文件/切换分支
+`git checkout <file/branch name>`
