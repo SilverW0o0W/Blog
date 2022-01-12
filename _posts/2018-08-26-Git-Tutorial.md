@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Git 最~常用命令
+title:      Git 常用命令
 author: Silver
 categories: Blog
 ---
